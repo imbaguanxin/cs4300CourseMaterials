@@ -1,0 +1,15 @@
+
+Bsquid:S1659"+Declare "WINDOW_HEIGHT" on a separate line.(ëÄ³ø
+9squid:S1659""Declare "proj" on a separate line.(‹è’¡
+psquid:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ùö¦•
+usquid:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ýààÿÿÿÿÿ
+psquid:S2293z"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹óÃ 
+qsquid:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¯ŒŽ
+vsquid:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(Þ½©ªúÿÿÿÿ
+csquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(õàÿ‡
+Bsquid:S19057"&Remove this unnecessary cast to "GL3".(Í±ñ¡øÿÿÿÿ
+Msquid:S2209Ç"5Change this instance-reference to a static reference.(åñòõ
+Csquid:S1172å"&Remove these unused method parameters.(ªÖþüýÿÿÿÿ
+osquid:S00116"WRename this field "WINDOW_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÄ³ø
+psquid:S00116"XRename this field "WINDOW_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÄ³ø
+nsquid:S00117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ý¡·€üÿÿÿÿ

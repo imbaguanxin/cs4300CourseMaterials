@@ -1,0 +1,29 @@
+<scene>
+    <instance name="sphere" path="models/sphere"></instance>
+    <image name="white" path="textures/white.png" />
+    <image name="earth" path="textures/earthmap.png" />
+
+    <light>
+        <ambient>0.8 0.8 0.8</ambient>
+        <diffuse>0.8 0.8 0.8</diffuse>
+        <specular>0.8 0.8 0.8</specular>
+        <position>200 200 200 </position>
+        <spotangle>180</spotangle>
+        <spotdirection>0 -1 0 </spotdirection>
+    </light>
+    <transform>
+        <set>
+            <scale>100 100 100</scale>
+        </set>
+
+        <object instanceof="sphere" texture="earth">
+            <material>
+                <ambient> 0.2 0.2 0.2 </ambient>
+                <diffuse> 0.8 0.8 0.8</diffuse>
+                <specular> 0.8 0.8 0.8</specular>
+                <shininess> 100 </shininess>
+            </material>
+        </object>
+    </transform>
+
+</scene>

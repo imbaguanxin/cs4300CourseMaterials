@@ -1,0 +1,18 @@
+
+ª%squid:RedundantThrowsDeclarationCheck÷"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(‹­°‘
+Bsquid:S1659""+Declare "WINDOW_HEIGHT" on a separate line.(ëÄ³ø
+9squid:S1659#""Declare "proj" on a separate line.(‹è’¡
+psquid:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ùö¦•
+usquid:S2293u"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ýààÿÿÿÿÿ
+qsquid:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹óÃ 
+qsquid:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¯ŒŽ
+vsquid:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(Þ½©ªúÿÿÿÿ
+csquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(õàÿ‡
+>squid:S1481ü"&Remove this unused "f" local variable.(ÍêŸä
+Csquid:S1172ˆ"&Remove these unused method parameters.(ªÖþüýÿÿÿÿ
+^squid:S00112C"FDefine and throw a dedicated exception instead of using a generic one.(ñ¥ýô
+Msquid:S1854ü"5Remove this useless assignment to local variable "f".(ÍêŸä
+osquid:S00116""WRename this field "WINDOW_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÄ³ø
+psquid:S00116""XRename this field "WINDOW_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÄ³ø
+nsquid:S00117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ý¡·€üÿÿÿÿ
+hsquid:UselessImportCheck"DRemove this unused import 'com.jogamp.opengl.util.GLReadBufferUtil'.(Ñ–×„

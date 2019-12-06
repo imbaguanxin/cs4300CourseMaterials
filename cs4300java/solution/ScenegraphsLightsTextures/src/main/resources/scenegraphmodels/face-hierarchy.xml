@@ -1,0 +1,116 @@
+<scene>
+    <instance name="sphere" path="models/sphere"></instance>
+    <instance name="box" path="models/box"></instance>
+    <instance name="cylinder" path="models/cylinder"></instance>
+    <instance name="cone" path="models/cone"></instance>
+    <image name="earth" path="textures/earthmap.png" />
+    <image name="checkerboard" path="textures/checkerboard.png" />
+    <image name="white" path="textures/white.png" />
+
+    <light>
+        <ambient>0.8 0.8 0.8</ambient>
+        <diffuse>0.8 0.8 0.8</diffuse>
+        <specular>0.8 0.8 0.8</specular>
+        <position>0 100 0 </position>
+        <spotangle>25</spotangle>
+        <spotdirection>0 -1 0 </spotdirection>
+    </light>
+    <transform>
+        <set>
+            <scale>200 5 200</scale>
+        </set>
+
+        <object instanceof="box" texture="checkerboard">
+            <material>
+                <ambient> 0.2 0.2 0.2 </ambient>
+                <diffuse> 0.8 0.8 0.8</diffuse>
+                <specular> 0.8 0.8 0.8</specular>
+                <shininess> 100 </shininess>
+            </material>
+        </object>
+    </transform>
+    <transform>
+        <set>
+            <translate>0 25 0</translate>
+        </set>
+        <group name="face">
+            <transform name="actualface">
+                <set>
+                    <scale>20 25 20</scale>
+                </set>
+                <light>
+                    <ambient>0.4 0.4 0.4</ambient>
+                    <diffuse>0.4 0.4 0.4</diffuse>
+                    <specular>0.4 0.4 0.4</specular>
+                    <position>0 100 100 </position>
+                    <spotangle>180</spotangle>
+                </light>
+                <object instanceof="sphere" texture="earth">
+                    <material>
+                        <ambient> 0.2 0.2 0.1 </ambient>
+                        <diffuse> 0.8 0.8 0.6</diffuse>
+                        <specular> 0.8 0.8 0.6</specular>
+                        <shininess> 100 </shininess>
+                    </material>
+                </object>
+            </transform>
+            <transform name="lefteye">
+                <set>
+                    <translate>7 15 12</translate>
+                    <scale>3 4 3</scale>
+                </set>
+                <object instanceof="sphere">
+                    <material>
+                        <ambient> 0.1 0.1 0.1 </ambient>
+                        <diffuse> 0.2 0.2 0.2</diffuse>
+                        <specular> 0.9 0.9 0.9</specular>
+                        <shininess> 100 </shininess>
+                    </material>
+                </object>
+            </transform>
+            <transform name="righteye">
+                <set>
+                    <translate>-7 15 12</translate>
+                    <scale>3 4 3</scale>
+                </set>
+                <object instanceof="sphere">
+                    <material>
+                        <ambient> 0.1 0.1 0.1 </ambient>
+                        <diffuse> 0.2 0.2 0.2</diffuse>
+                        <specular> 0.9 0.9 0.9</specular>
+                        <shininess> 100 </shininess>
+                    </material>
+                </object>
+            </transform>
+            <transform name="nose">
+                <set>
+                    <translate>0 10 10</translate>
+                    <rotate>90 1 0 0</rotate>
+                    <scale>5 20 5</scale>
+                </set>
+                <object instanceof="cylinder">
+                    <material>
+                        <ambient> 0.2 0.0 0.0 </ambient>
+                        <diffuse> 0.8 0 0</diffuse>
+                        <specular> 0.8 0.0 0.0</specular>
+                        <shininess> 100 </shininess>
+                    </material>
+                </object>
+            </transform>
+            <transform name="hat">
+                <set>
+                    <translate>0 20 0</translate>
+                    <scale>10 25 10</scale>
+                </set>
+                <object instanceof="cone">
+                    <material>
+                        <ambient> 0.1 0 0.1 </ambient>
+                        <diffuse> 0.8 0 0.8</diffuse>
+                        <specular> 0.8 0 0.8</specular>
+                        <shininess> 100 </shininess>
+                    </material>
+                </object>
+            </transform>
+        </group>
+    </transform>
+</scene>

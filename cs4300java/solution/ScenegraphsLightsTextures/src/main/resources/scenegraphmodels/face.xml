@@ -1,0 +1,179 @@
+<scene>
+    <instance name="sphere" path="models/sphere"></instance>
+    <instance name="box" path="models/box"></instance>
+    <instance name="cylinder" path="models/cylinder"></instance>
+    <instance name="cone" path="models/cone"></instance>
+    <image name="earth" path="textures/earthmap.png" />
+
+    <light>
+        <ambient>0.8 0.8 0.8</ambient>
+        <diffuse>0.8 0.8 0.8</diffuse>
+        <specular>0.8 0.8 0.8</specular>
+        <position>0 100 0 </position>
+        <spotangle>25</spotangle>
+        <spotdirection>0 -1 0 </spotdirection>
+    </light>
+
+    <transform name="emoji_model">
+        <set>
+            <translate>0 30 0</translate>
+        </set>
+        <group>
+            <transform name="head">
+                <set>
+                    <scale>30 30 10</scale>
+                </set>
+                <light>
+                    <ambient>0.4 0.4 0.4</ambient>
+                    <diffuse>0.4 0.4 0.4</diffuse>
+                    <specular>0.4 0.4 0.4</specular>
+                    <position>0 100 100 </position>
+                </light>
+                <object instanceof="sphere" texture="earth">
+                    <material>
+                        <ambient> 0.9 1 0 </ambient>
+                        <diffuse> 0.8 0.8 0.8</diffuse>
+                        <specular> 0.8 0.8 0.8</specular>
+                        <shininess> 100 </shininess>
+                    </material>
+                </object>
+            </transform>       
+            <transform name="lefteyebrow">
+                <set>
+                    <translate>5 10 8</translate>
+                    <scale>5 2 2</scale>
+                </set>
+                <light>
+                    <ambient>0.4 0.4 0.4</ambient>
+                    <diffuse>0.4 0.4 0.4</diffuse>
+                    <specular>0.4 0.4 0.4</specular>
+                    <position>0 100 100 </position>
+                </light>
+                <object instanceof="cylinder">
+                    <material>
+                        <ambient> 0 0 0 </ambient>
+                        <diffuse> 0 0 0 </diffuse>
+                        <specular> 0 0 0 </specular>
+                        <shininess> 100 </shininess>
+                    </material>
+                </object>
+            </transform>
+            <transform name="righteyebrow">
+                <set>
+                    <translate>-10 10 8</translate>
+                    <scale>5 2 2</scale>
+                </set>
+                <object instanceof="cylinder">
+                    <material>
+                        <ambient> 0 0 0 </ambient>
+                        <diffuse> 0 0 0 </diffuse>
+                        <specular> 0 0 0 </specular>
+                        <shininess> 100 </shininess>
+                    </material>
+                </object>
+            </transform>                   
+            <transform name="lefteye">
+                <set>
+                    <translate>8 6 10</translate>
+                    <scale>3 3 3</scale>
+                </set>
+                <object instanceof="sphere">
+                    <material>
+                        <ambient> 0 0 0 </ambient>
+                        <diffuse> 0 0 0 </diffuse>
+                        <specular> 0 0 0 </specular>
+                        <shininess> 100 </shininess>
+                    </material>
+                </object>
+            </transform>
+            <transform name="righteye">
+                <set>
+                    <translate>-11 6 10</translate>
+                    <scale>3 3 3</scale>
+                </set>
+                <object instanceof="sphere">
+                    <material>
+                        <ambient> 0 0 0 </ambient>
+                        <diffuse> 0 0 0 </diffuse>
+                        <specular> 0 0 0 </specular>
+                        <shininess> 100 </shininess>
+                    </material>
+                </object>
+            </transform>                        
+            <transform name="freckle1">
+                <set>
+                    <translate>10 0 10</translate>
+                    <scale>1 1 1</scale>
+                    <rotate>45 0 0 1</rotate>
+                </set>
+                <object instanceof="sphere">
+                    <material>
+                        <ambient> 0.3 0.3 0.1 </ambient>
+                        <diffuse> 0 0 0 </diffuse>
+                        <specular> 0 0 0 </specular>
+                        <shininess> 100 </shininess>
+                    </material>
+                </object>
+            </transform>
+            <transform name="freckle2">
+                <set>
+                    <translate>13 0 10</translate>
+                    <scale>1 1 1</scale>
+                    <rotate>30 0 0 1</rotate>
+                </set>
+                <object instanceof="sphere">
+                    <material>
+                        <ambient> 0.3 0.3 0.1 </ambient>
+                        <diffuse> 0 0 0 </diffuse>
+                        <specular> 0 0 0 </specular>
+                        <shininess> 100 </shininess>
+                    </material>
+                </object>
+            </transform>
+            <transform name="mouth">
+                <set>
+                    <translate>0 -8 8</translate>
+                    <scale>2 1 2</scale>
+                </set>
+                <object instanceof="sphere">
+                    <material>
+                        <ambient> 0 0 0 </ambient>
+                        <diffuse> 0 0 0 </diffuse>
+                        <specular> 0 0 0 </specular>
+                        <shininess> 100 </shininess>
+                    </material>
+                </object>
+            </transform>
+            <transform name="lefthorn">
+                <set>
+                    <translate>15 15 0</translate>
+                    <scale>5 30 5</scale>
+                    <rotate>-20 0 0 1</rotate>
+                </set>
+                <object instanceof="cone">
+                    <material>
+                        <ambient> 1 0 1 </ambient>
+                        <diffuse> 0 0 0 </diffuse>
+                        <specular> 0 0 0 </specular>
+                        <shininess> 100 </shininess>
+                    </material>
+                </object>
+            </transform>
+            <transform name="righthorn">
+                <set>
+                    <translate>-15 15 0</translate>
+                    <scale>5 30 5</scale>
+                    <rotate>20 0 0 1</rotate>
+                </set>
+                <object instanceof="cone">
+                    <material>
+                        <ambient> 1 0 1 </ambient>
+                        <diffuse> 0 0 0 </diffuse>
+                        <specular> 0 0 0 </specular>
+                        <shininess> 100 </shininess>
+                    </material>
+                </object>
+            </transform>
+        </group>
+    </transform>
+</scene>

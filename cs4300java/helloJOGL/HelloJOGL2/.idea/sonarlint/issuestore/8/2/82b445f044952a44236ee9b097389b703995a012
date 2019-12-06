@@ -1,0 +1,18 @@
+
+%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¢¯È…
+g
+squid:S128E"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ
+g
+squid:S1283"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ
+?squid:S1659"#Declare "color" on a separate line.(ÇĞ„Œüÿÿÿÿ
+]squid:S1192"FDefine a constant instead of duplicating this literal "color" 4 times.(¤ëü–
+esquid:S1192"IDefine a constant instead of duplicating this literal "position" 4 times.(‰ÊÆÂûÿÿÿÿ
+g
+squid:S128G"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck."mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(½ñáë
+g
+squid:S128C"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ
+g
+squid:S1287"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+g
+squid:S1285"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ

@@ -1,0 +1,14 @@
+
+bsquid:S1301="KReplace this "switch" statement by "if" statements to increase readability.(ñšƒ÷
+osquid:UselessImportCheck	"DRemove this unused import 'com.jogamp.opengl.util.awt.TextRenderer'.(¢¡Ì8¦óìôŒ-
+—squid:S11866"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İ¼õA
+P"squid:SwitchLastCaseIsDefaultCheck=""Add a default case to this switch.(ñšƒ÷
+^squid:UselessImportCheck":Remove this unused import 'java.awt.event.WindowListener'.(èà•×
+Lsquid:S1948".Make "textRenderer" transient or serializable.(•ÑÅù8²¥ìôŒ-
+]squid:UselessImportCheck"9Remove this unused import 'java.awt.event.WindowAdapter'.(­ˆàÛ
+Zsquid:UselessImportCheck"6Remove this unused import 'java.awt.event.MouseEvent'.(›õ
+asquid:UselessImportCheck"8Remove this unused import 'java.awt.event.MouseAdapter'.( ÜÍÁûÿÿÿÿ
+esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(Î‡¸Ğ
+esquid:UselessImportCheck"<Remove this unused import 'com.jogamp.opengl.util.Animator'.(í¼î…øÿÿÿÿ
+˜squid:S11861"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷—
+=squid:S1948"&Make "view" transient or serializable.(ØÊ»¶

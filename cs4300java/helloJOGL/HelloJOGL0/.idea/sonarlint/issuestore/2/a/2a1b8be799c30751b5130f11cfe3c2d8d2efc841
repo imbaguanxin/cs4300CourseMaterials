@@ -1,0 +1,19 @@
+
+Gsquid:S1068"0Remove this unused "WINDOW_WIDTH" private field.(ëÄ³ø
+Tsquid:S2209‚"5Change this instance-reference to a static reference.(åñòõ8³”İ†-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ª©•…-
+dsquid:S2184`"FCast one of the operands of this multiplication operation to a "long".(ÂºÚ8Å·‘‘†-
+Jsquid:S1172 "&Remove these unused method parameters.(ªÖşüıÿÿÿÿ8³”İ†-
+dsquid:S2184n"FCast one of the operands of this multiplication operation to a "long".(ÛŞâÈ8Å·‘‘†-
+nsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(·º×Óøÿÿÿÿ8Ñ‘‘†-
+wsquid:S1450 "TRemove the "color" field and declare it as a local variable in the relevant methods.(ÙüùÒùÿÿÿÿ8î’Œ‘†-
+Bsquid:S1659"+Declare "WINDOW_HEIGHT" on a separate line.(ëÄ³ø
+Bsquid:S1905."&Remove this unnecessary cast to "GL3".(Í±ñ¡øÿÿÿÿ
+ squid:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ßÌüé8³”İ†-
+psquid:S00116"XRename this field "WINDOW_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÄ³ø
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(İ•‡¿ıÿÿÿÿ8î’Œ‘†-
+^squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8¥Â…•…-
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8¢•…-
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ª©•…-
+osquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(Ä™ÓÃúÿÿÿÿ8Ê¶•‘†-
+osquid:S00116"WRename this field "WINDOW_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÄ³ø

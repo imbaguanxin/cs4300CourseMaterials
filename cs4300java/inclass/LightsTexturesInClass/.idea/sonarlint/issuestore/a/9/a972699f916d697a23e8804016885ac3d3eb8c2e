@@ -1,0 +1,27 @@
+
+%squid:RedundantThrowsDeclarationCheck!"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¢¯È…
+%squid:RedundantThrowsDeclarationCheckA"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(½ñáë
+@squid:S1659"$Declare "normal" on a separate line.(Ü¿«­ÿÿÿÿÿ
+Bsquid:S1659"&Declare "texcoord" on a separate line.(Ü¿«­ÿÿÿÿÿ
+csquid:S1192"GDefine a constant instead of duplicating this literal "normal" 4 times.(´øÉŒúÿÿÿÿ
+zsquid:S1192P"^Define a constant instead of duplicating this literal "Too much data for attribute: " 3 times.(ª³£Äüÿÿÿÿ
+esquid:S1192"IDefine a constant instead of duplicating this literal "position" 4 times.(‰ÊÆÂûÿÿÿÿ
+esquid:S1192"IDefine a constant instead of duplicating this literal "texcoord" 4 times.(°ö™Çşÿÿÿÿ
+g
+squid:S128J"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+g
+squid:S128H"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ
+g
+squid:S128F"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ
+g
+squid:S128Z"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+g
+squid:S128X"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ
+g
+squid:S128V"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ
+g
+squid:S128j"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+g
+squid:S128h"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ
+g
+squid:S128f"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ

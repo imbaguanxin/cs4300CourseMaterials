@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="HelloJOGL2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8c9fe09-62e3-4369-a1f4-d491010cdf07" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../assignments/Assignment 4.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../assignments/Assignment 4.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../assignments/Assignment 5.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../assignments/Assignment 5.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/BumpMapping.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/BumpMapping.pro.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/OpenGLWindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/OpenGLWindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/VertexAttrib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/View.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/View.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/models/box-inside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/models/box-outside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/models/box.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/models/cone.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/models/cylinder.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/models/neptune.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/models/sphere.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/models/thomas-lyons-object.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/models/torus.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/shaders/normalmapping.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/shaders/normalmapping.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/shaders/phong-multiple.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/shaders/phong-multiple.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/bumpy-normalmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/bumpy-normalmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/checkerboard-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/checkerboard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/checkerboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/earth-big-low-normalmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/earth-big-normalmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/earth-big-normalmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/earth-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/earth-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/earthmap-normalmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/earthmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/earthmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/mosaic-normalmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/mosaic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/output.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/snakeskin-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/snakeskin-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/snakeskin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/snakeskin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/stone-normalmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/BumpMapping/textures/stone-normalmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/CameraViews.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/CameraViews.pro.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/OpenGLWindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/OpenGLWindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/VertexAttrib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/View.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/View.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/models/aeroplane.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/models/box.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/models/cone.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/models/cylinder.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/models/neptune.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/models/sphere.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/models/thomas-lyons-object.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/models/vase-nathan-gregg.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/shaders/default.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CameraViews/shaders/default.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CircleSolution/CircleSolution.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/CircleSolution/CircleSolution.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CircleSolution/View.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/CircleSolution/View.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fans/Fans.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fans/Fans.pro.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fans/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fans/VertexAttribWithColor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fans/View.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fans/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fans/openglwindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fans/openglwindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fans/shaders/default.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fans/shaders/default.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fans/view.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/FansWithWidget/FansWithWidget.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/FansWithWidget/FansWithWidget.pro.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/FansWithWidget/MainWindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/FansWithWidget/MainWindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/FansWithWidget/MyGLWidget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/FansWithWidget/MyGLWidget.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/FansWithWidget/VertexAttribWithColor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/FansWithWidget/View.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/FansWithWidget/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/FansWithWidget/shaders/default.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/FansWithWidget/shaders/default.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/FansWithWidget/view.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/Fire.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/Fire.pro.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/FireParticle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/FireParticle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/OpenGLWindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/OpenGLWindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/VertexAttrib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/View.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/View.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/models/quad.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/shaders/fire.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/shaders/fire.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/textures/fire-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/textures/fire-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/textures/fire-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/textures/fire-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/textures/gfire-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/textures/gfire-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/textures/gfire-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fire/textures/gfire-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fractals/Fractals.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Fractals/Fractals.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Fractals/view.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Fractals/view.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/HelloQt/HelloQt.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/HelloQt/HelloQt.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/HelloQt2/HelloQt2.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/HelloQt2/HelloQt2.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/HelloQt3/HelloQt3.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/HelloQt3/HelloQt3.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/LightsAndTextures.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/LightsAndTextures.pro.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/OpenGLWindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/OpenGLWindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/VertexAttrib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/View.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/View.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/models/891_neptune_pgp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/models/box-inside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/models/box-outside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/models/box.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/models/cone.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/models/cylinder.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/models/neptune.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/models/sphere.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/models/thomas-lyons-object.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/models/torus.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/models/vase-nathan-gregg.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/shaders/phong-multiple.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/shaders/phong-multiple.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/textures/checkerboard-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/textures/checkerboard-busy-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/textures/checkerboard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/textures/checkerboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/textures/die.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/textures/earthmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/textures/earthmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsAndTextures/textures/whitebox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsTextureInClass/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsTextureInClass/LightsTextureInClass.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsTextureInClass/OpenGLWindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsTextureInClass/View.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/LightsTextureInClass/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ObjViewer/ObjViewer.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/ObjViewer/ObjViewer.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ObjViewer/View.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/ObjViewer/View.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ObjectsInAScene/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ObjectsInAScene/ObjectsInAScene.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ObjectsInAScene/SceneElement.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ObjectsInAScene/VertexAttrib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ObjectsInAScene/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/OpenGLWindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/OpenGLWindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/ScenegraphBasicRaytracer.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/ScenegraphBasicRaytracer.pro.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/VertexAttrib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/View.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/View.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/models/box-inside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/models/box-outside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/models/box.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/models/cone.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/models/cylinder.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/models/neptune.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/models/sphere.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/models/thomas-lyons-object.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/models/vase-nathan-gregg.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/scenegraphs/scene.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/scenegraphs/simple-box.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/scenegraphs/simple-sphere.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/sgraph/AbstractNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/sgraph/GLScenegraphRenderer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/sgraph/GroupNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/sgraph/HitRecord.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/sgraph/INode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/sgraph/IScenegraph.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/sgraph/LeafNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/sgraph/RTScenegraphRenderer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/sgraph/Ray.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/sgraph/SceneXMLReader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/sgraph/Scenegraph.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/sgraph/TransformNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/sgraph/scenegraphinfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/shaders/lights-textures.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/shaders/lights-textures.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/textures/checkerboard-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/textures/checkerboard-busy-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/textures/checkerboard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/textures/checkerboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/textures/die.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/textures/earthmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/textures/earthmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/textures/white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphBasicRaytracer/textures/whitebox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/OpenGLWindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/OpenGLWindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/Scenegraphs.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/Scenegraphs.pro.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/VertexAttrib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/View.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/View.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/models/box.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/models/cone.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/models/cylinder.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/models/neptune.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/models/sphere.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/models/thomas-lyons-object.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/models/vase-nathan-gregg.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/scenegraphs/cone.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/scenegraphs/face-hierarchy-with-copy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/scenegraphs/face-hierarchy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/scenegraphs/humanoid.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/scenegraphs/two-humanoids.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/sgraph/AbstractNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/sgraph/GLScenegraphRenderer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/sgraph/GroupNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/sgraph/INode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/sgraph/IScenegraph.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/sgraph/LeafNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/sgraph/SceneXMLReader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/sgraph/Scenegraph.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/sgraph/TransformNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/sgraph/scenegraphinfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/shaders/default.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Scenegraphs/shaders/default.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/OpenGLWindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/OpenGLWindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/ScenegraphsLightsTextures.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/ScenegraphsLightsTextures.pro.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/VertexAttrib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/View.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/View.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/models/box-inside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/models/box-outside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/models/box.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/models/cone.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/models/cylinder.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/models/neptune.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/models/sphere.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/models/thomas-lyons-object.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/models/vase-nathan-gregg.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/scenegraphs/face-hierarchy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/scenegraphs/humanoid-lights-textures.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/scenegraphs/scene.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/sgraph/AbstractNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/sgraph/GLScenegraphRenderer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/sgraph/GroupNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/sgraph/INode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/sgraph/IScenegraph.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/sgraph/LeafNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/sgraph/SceneXMLReader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/sgraph/Scenegraph.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/sgraph/TransformNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/sgraph/scenegraphinfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/shaders/phong-multiple.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/shaders/phong-multiple.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/textures/checkerboard-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/textures/checkerboard-busy-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/textures/checkerboard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/textures/checkerboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/textures/die.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/textures/earthmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/textures/earthmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/textures/white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScenegraphsLightsTextures/textures/whitebox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScreenCapture/OpenGLWindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScreenCapture/OpenGLWindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScreenCapture/ScreenCapture.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScreenCapture/ScreenCapture.pro.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScreenCapture/VertexAttrib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScreenCapture/View.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScreenCapture/View.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScreenCapture/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScreenCapture/shaders/default.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/ScreenCapture/shaders/default.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Sphere/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Sphere/OpenGLWindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Sphere/OpenGLWindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Sphere/Sphere.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Sphere/VertexAttrib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Sphere/View.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Sphere/View.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Sphere/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/TowersOfHanoi/TowersOfHanoi.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/TowersOfHanoi/TowersOfHanoi.pro.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/TowersOfHanoi/abstracttowersofhanoi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/TowersOfHanoi/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/TowersOfHanoi/move.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/TowersOfHanoi/nonrectowersofhanoi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/TowersOfHanoi/rectowersofhanoi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/TowersOfHanoi/towersofhanoi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/headers/IVertexData.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/headers/IVertexData.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/headers/ObjExporter.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/headers/ObjExporter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/headers/ObjImporter.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/headers/ObjImporter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgoViz/src/shaders/default.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgoViz/src/shaders/default.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgoViz/src/sort/SortingList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgoViz/src/toh/AbstractTowersOfHanoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgoViz/src/toh/NonRecTowersOfHanoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgoViz/src/toh/RecTowersOfHanoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgoViz/src/toh/TowersOfHanoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgoViz/src/viz/AlgoViz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgoViz/src/viz/JOGLFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgoViz/src/viz/ShapeModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgoViz/src/viz/ShapeModelReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgoViz/src/viz/ShapeSpec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgoViz/src/viz/VertexAttrib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgoViz/src/viz/VertexAttribProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgoViz/src/viz/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/BumpMapping.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/JOGLFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/ObjViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/VertexAttrib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/VertexAttribProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/models/box-inside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/models/box-outside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/models/box.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/models/cone.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/models/cylinder.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/models/neptune.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/models/sphere.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/models/thomas-lyons-object.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/models/torus.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/shaders/normalmapping.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/shaders/normalmapping.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/shaders/phong-multiple.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/shaders/phong-multiple.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/bumpy-normalmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/bumpy-normalmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/checkerboard-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/checkerboard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/checkerboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/earth-big-low-normalmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/earth-big-normalmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/earth-big-normalmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/earth-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/earth-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/earthmap-normalmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/earthmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/earthmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/mosaic-normalmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/mosaic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/output.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/snakeskin-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/snakeskin-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/snakeskin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/snakeskin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/stone-normalmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BumpMapping/src/textures/stone-normalmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/CameraViews.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/models/aeroplane.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/models/box.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/models/cone.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/models/cylinder.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/models/neptune.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/models/sphere.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/models/thomas-lyons-object.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/models/vase-nathan-gregg.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/src/CameraViews.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/src/JOGLFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/src/ObjViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/src/VertexAttrib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/src/VertexAttribProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/src/View (1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/src/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/src/shaders/default.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraViews/src/shaders/default.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CirclesSolution/CirclesSolution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CirclesSolution/CirclesSolution.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CirclesSolution/src/Circles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CirclesSolution/src/JOGLFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CirclesSolution/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CirclesSolution/src/VertexAttrib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CirclesSolution/src/VertexAttribProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CirclesSolution/src/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CirclesSolution/src/shaders/default.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CirclesSolution/src/shaders/default.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fans/src/JOGLFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fans/src/JOGLFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fans/src/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fans/src/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/Fire.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/FireParticle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/FireSimulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/JOGLFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/VertexAttrib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/VertexAttribProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/models/quad.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/shaders/fire.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/shaders/fire.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/textures/fire-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/textures/fire-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/textures/fire-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/textures/fire-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/textures/gfire-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/textures/gfire-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/textures/gfire-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fire/src/textures/gfire-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloJOGL/HelloJOGL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloJOGL/HelloJOGL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloJOGL/src/HelloJOGL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloJOGL/src/JOGLFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloJOGL/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloJOGL/src/VertexAttrib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloJOGL/src/VertexAttribProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloJOGL/src/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloJOGL/src/shaders/default.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloJOGL/src/shaders/default.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloJOGL2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloJOGL2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloJOGL2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JOGLFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VertexAttribWithColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VertexAttribWithColorProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shaders/default.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shaders/default.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloJOGL3/src/JOGLFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloJOGL3/src/JOGLFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JOML/joml-1.8.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JOML/joml-1.8.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/LightsAndTextures.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/JOGLFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/LightsTextures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/VertexAttrib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/VertexAttribProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/models/891_neptune_pgp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/models/box-inside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/models/box-outside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/models/box.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/models/cone.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/models/cylinder.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/models/sphere.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/models/thomas-lyons-object.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/models/torus.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/shaders/phong-multiple.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/shaders/phong-multiple.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/textures/checkerboard-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/textures/checkerboard-busy-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/textures/checkerboard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/textures/checkerboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/textures/die.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/textures/earthmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/textures/earthmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/textures/white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LightsAndTextures/src/textures/whitebox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjViewer/ObjViewer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjViewer/ObjViewer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjViewer/src/JOGLFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjViewer/src/ObjViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjViewer/src/VertexAttrib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjViewer/src/VertexAttribProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjViewer/src/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjViewer/src/shaders/default.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjViewer/src/shaders/default.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/ParticleShower.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/JOGLFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/Particle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/ParticleShower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/VertexAttrib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/VertexAttribProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/models/quad.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/shaders/particle.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/shaders/particle.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/shaders/triangles.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/shaders/triangles.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/textures/fire-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/textures/fire-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/textures/fire-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/textures/fire-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/textures/gfire-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/textures/gfire-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/textures/gfire-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleShower/src/textures/gfire-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/ScenegraphAdvRaytracer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/JOGLFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/ScenegraphViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/VertexAttrib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/VertexAttribProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/models/box-inside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/models/box-outside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/models/box.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/models/cone.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/models/cylinder.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/models/neptune.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/models/sphere.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/models/thomas-lyons-object.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/models/vase-nathan-gregg.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/scenegraphs/reflections.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/scenegraphs/scene.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/scenegraphs/scenegraphs.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/scenegraphs/shaders/lights-textures.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/scenegraphs/shaders/lights-textures.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/scenegraphs/simple-box.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/scenegraphs/simple-sphere.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/sgraph/AbstractNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/sgraph/GL3ScenegraphRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/sgraph/GroupNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/sgraph/HitRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/sgraph/INode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/sgraph/IScenegraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/sgraph/IScenegraphRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/sgraph/LeafNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/sgraph/RTScenegraphRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/sgraph/Ray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/sgraph/SceneXMLReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/sgraph/Scenegraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/sgraph/TransformNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/shaders/lights-textures.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/shaders/lights-textures.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/textures/checkerboard-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/textures/checkerboard-busy-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/textures/checkerboard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/textures/checkerboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/textures/die.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/textures/earthmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/textures/earthmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/textures/white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphAdvRaytracer/src/textures/whitebox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/ScenegraphBasicRaytracer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/JOGLFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/ScenegraphViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/VertexAttrib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/VertexAttribProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/models/box-inside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/models/box-outside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/models/box.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/models/cone.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/models/cylinder.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/models/neptune.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/models/sphere.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/models/thomas-lyons-object.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/models/vase-nathan-gregg.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/scenegraphs/scene.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/scenegraphs/simple-box.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/scenegraphs/simple-sphere.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/sgraph/AbstractNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/sgraph/GL3ScenegraphRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/sgraph/GroupNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/sgraph/HitRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/sgraph/INode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/sgraph/IScenegraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/sgraph/IScenegraphRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/sgraph/LeafNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/sgraph/RTScenegraphRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/sgraph/Ray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/sgraph/SceneXMLReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/sgraph/Scenegraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/sgraph/TransformNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/shaders/lights-textures.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/shaders/lights-textures.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/textures/checkerboard-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/textures/checkerboard-busy-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/textures/checkerboard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/textures/checkerboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/textures/die.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/textures/earthmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/textures/earthmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/textures/white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphBasicRaytracer/src/textures/whitebox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/Scenegraphs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/Codebase.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/DemoProgram.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/JOGLFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/ScenegraphViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/VertexAttrib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/VertexAttribProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/models/box.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/models/cone.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/models/cylinder.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/models/neptune.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/models/sphere.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/models/thomas-lyons-object.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/models/vase-nathan-gregg.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/scenegraphmodels/cone.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/scenegraphmodels/face-hierarchy-with-copy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/scenegraphmodels/face-hierarchy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/scenegraphmodels/humanoid.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/scenegraphmodels/two-humanoids.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/scenegraphs/A-humanoid.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/scenegraphs/Y-humanoid.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/scenegraphs/cone.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/scenegraphs/face-hierarchy-with-copy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/scenegraphs/face-hierarchy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/scenegraphs/humanoid-YMCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/scenegraphs/humanoid.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/scenegraphs/two-humanoids.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/sgraph.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/sgraph/AbstractNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/sgraph/GL3ScenegraphRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/sgraph/GroupNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/sgraph/INode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/sgraph/IScenegraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/sgraph/IScenegraphRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/sgraph/LeafNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/sgraph/SceneXMLReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/sgraph/Scenegraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/sgraph/TransformNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/shaders/default.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/shaders/default.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/shaders/triangles.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/shaders/triangles.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/util/IVertexData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/util/Light.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/util/Material.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/util/ObjExporter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/util/ObjImporter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/util/ObjectInstance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/util/PolygonMesh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/util/ShaderLocationsVault.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/util/ShaderProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/util/TextureImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenegraphs/src/util/VertexProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/ScenegraphsLightsTextures.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/JOGLFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/ScenegraphViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/VertexAttrib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/VertexAttribProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/models/box-inside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/models/box-outside.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/models/box.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/models/cone.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/models/cylinder.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/models/neptune.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/models/sphere.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/models/thomas-lyons-object.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/models/vase-nathan-gregg.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/scenegraphs/complete.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/scenegraphs/face-hierarchy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/scenegraphs/face.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/scenegraphs/faces.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/scenegraphs/ground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/scenegraphs/humanoid-Y.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/scenegraphs/humanoid-lights-textures.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/scenegraphs/monster.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/scenegraphs/scene.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/sgraph/AbstractNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/sgraph/GL3ScenegraphRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/sgraph/GroupNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/sgraph/INode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/sgraph/IScenegraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/sgraph/IScenegraphRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/sgraph/LeafNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/sgraph/SceneXMLReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/sgraph/Scenegraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/sgraph/TransformNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/shaders/phong-multiple.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/shaders/phong-multiple.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/textures/checkerboard-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/textures/checkerboard-busy-box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/textures/checkerboard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/textures/checkerboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/textures/die.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/textures/earthmap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/textures/earthmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/textures/fur.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/textures/mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/textures/white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScenegraphsLightsTextures/src/textures/whitebox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenCapture/ScreenCapture.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenCapture/src/Circles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenCapture/src/JOGLFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenCapture/src/VertexAttrib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenCapture/src/VertexAttribProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenCapture/src/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenCapture/src/shaders/default.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenCapture/src/shaders/default.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TowersOfHanoi/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TowersOfHanoi/TowersOfHanoi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TowersOfHanoi/src/TOH.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TowersOfHanoi/src/toh/AbstractTowersOfHanoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TowersOfHanoi/src/toh/NonRecTowersOfHanoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TowersOfHanoi/src/toh/RecTowersOfHanoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TowersOfHanoi/src/toh/TowersOfHanoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../extras/util/JOGLGraphTextRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../extras/util/JOGLGraphTextRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../extras/util/ObjExporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../extras/util/ObjExporter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../extras/util/ObjectInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../extras/util/ObjectInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../extras/util/ShaderProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../extras/util/ShaderProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/final.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/final.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/midterm.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/midterm.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lectures/Curves.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lectures/Curves.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lectures/Introduction and Welcome.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lectures/Introduction and Welcome.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lectures/beamer slides/intellij/intellij.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lectures/beamer slides/intellij/intellij.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lectures/beamer slides/introduction/introduction.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lectures/beamer slides/introduction/introduction.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lectures/beamer slides/math overview/math overview.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lectures/beamer slides/math overview/math overview.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lectures/beamer slides/raytracing/raytracing.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lectures/beamer slides/raytracing/raytracing.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lectures/beamer slides/transformations/transformations.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lectures/beamer slides/transformations/transformations.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lectures/last lecture/Summary.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lectures/last lecture/Summary.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../syllabus/syllabus-body.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../syllabus/syllabus-body.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../syllabus/syllabus.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../syllabus/syllabus.tex" afterDir="false" />
+    </list>
+    <ignored path="HelloJOGL2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1868869017">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Manifest" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="79" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="79" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-654703530">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HelloJOGL2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/VertexAttribWithColor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="20" column="12" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="20" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>target</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/JOGLFrame.java" />
+        <option value="$PROJECT_DIR$/src/ShaderProgram.java" />
+        <option value="$PROJECT_DIR$/src/shaders/default.frag" />
+        <option value="$PROJECT_DIR$/src/shaders/default.vert" />
+        <option value="$PROJECT_DIR$/src/util/ObjectInstance.java" />
+        <option value="$PROJECT_DIR$/src/VertexAttribWithColorProducer.java" />
+        <option value="$PROJECT_DIR$/src/VertexAttribWithColor.java" />
+        <option value="$PROJECT_DIR$/src/View.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/JOGLFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/View.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HelloJOGL2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloJOGL2" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="HelloJOGL2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloJOGL2" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="HelloJOGL2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloJOGL2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloJOGL2" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="HelloJOGL2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloJOGL2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloJOGL2" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="HelloJOGL2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HelloJOGL2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="HelloJOGL2" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="HelloJOGL2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="HelloJOGL2" type="616d4139:PackageViewModuleNode" />
+              <item name="META-INF" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="HelloJOGL2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="HelloJOGL2" type="616d4139:PackageViewModuleNode" />
+              <item name="shaders" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../old code/Java/Curves" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloJOGL2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HelloJOGL2" />
+      <module name="HelloJOGL2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8c9fe09-62e3-4369-a1f4-d491010cdf07" name="Default" comment="" />
+      <created>1446239893056</created>
+      <option name="number" value="Default" />
+      <updated>1446239893056</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.30769232" />
+      <window_info id="Structure" order="1" weight="0.24939272" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49068826" weight="0.36944938" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50931174" side_tool="true" weight="0.36944938" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49918568" weight="0.3285968" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/View.java</url>
+          <line>48</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JOGLFrame.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/shaders/default.frag" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/shaders/default.vert" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5040">
+          <caret line="192" column="20" selection-start-line="192" selection-start-column="20" selection-end-line="192" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/VertexAttribWithColorProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HelloJOGL2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JOGLFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/VertexAttribWithColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>HelloJOGL2:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8 64 bit</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HelloJOGL2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.jogamp.gluegen:gluegen-rt-main:2.3.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

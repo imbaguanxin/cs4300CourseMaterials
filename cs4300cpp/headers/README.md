@@ -1,0 +1,1 @@
+These files contain several classes as header files that are useful for many examples and projects. Please unzip and put the "headers" folder in the same folder that contains all your Qt projects. Look at the .pro file of one of your projects to see how it refers to this folder.

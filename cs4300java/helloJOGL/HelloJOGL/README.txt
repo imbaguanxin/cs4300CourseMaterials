@@ -1,0 +1,1 @@
+This basic program shows how to draw 2 triangles that share vertices on screen using JOGL using one color

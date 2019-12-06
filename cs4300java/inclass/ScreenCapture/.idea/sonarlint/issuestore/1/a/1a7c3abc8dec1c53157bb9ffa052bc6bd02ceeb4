@@ -1,0 +1,13 @@
+
+%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¢¯È…
+%squid:RedundantThrowsDeclarationCheck/"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(½ñáë
+esquid:S1192"IDefine a constant instead of duplicating this literal "position" 4 times.(‰ÊÆÂûÿÿÿÿ
+g
+squid:S1288"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+g
+squid:S1286"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ
+g
+squid:S1284"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(‰¬ûèúÿÿÿÿ
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(‰¬ûèúÿÿÿÿ
+gsquid:S13010"KReplace this "switch" statement by "if" statements to increase readability.(‰¬ûèúÿÿÿÿ

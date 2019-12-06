@@ -1,0 +1,6 @@
+
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›ÿÝž
+^squid:UselessImportCheck":Remove this unused import 'java.awt.event.WindowListener'.(èà•×
+]squid:UselessImportCheck"9Remove this unused import 'java.awt.event.WindowAdapter'.(­ˆàÛ
+=squid:S1948"&Make "view" transient or serializable.(ØÊ»¶
+esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(Î‡¸Ð

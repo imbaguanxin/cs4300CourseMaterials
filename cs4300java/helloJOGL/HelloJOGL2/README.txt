@@ -1,0 +1,1 @@
+This program extends HelloJOGL, by drawing the same two triangles but specifying one color per vertex. This also introduces the modelview matrix to transform the object in simple ways.

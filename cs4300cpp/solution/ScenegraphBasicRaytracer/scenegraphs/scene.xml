@@ -1,0 +1,126 @@
+<scene>
+    <instance name="sphere" path="models/sphere"></instance>
+    <instance name="box" path="models/box-outside"></instance>
+    <image name="white" path="textures/white.png" />
+    <image name="earth" path="textures/earthmap.png" />
+    <image name="dice" path="textures/die.png"></image>
+
+
+    <light>
+        <ambient>0.8 0.8 0.8</ambient>
+        <diffuse>0.8 0.8 0.8</diffuse>
+        <specular>0.8 0.8 0.8</specular>
+        <position>0 100 0 </position>
+        <spotangle>180</spotangle>
+        <spotdirection>0 -1 0 </spotdirection>
+    </light>
+
+    <light>
+        <ambient>0.8 0.8 0.8</ambient>
+        <diffuse>0.8 0.8 0.8</diffuse>
+        <specular>0.8 0.8 0.8</specular>
+        <position>0 100 0 </position>
+        <spotangle>25</spotangle>
+        <spotdirection>0 -1 0 </spotdirection>
+    </light>
+    <group>
+        <transform>
+            <set>
+                <scale>50 50 50</scale>
+            </set>
+
+            <object instanceof="sphere" texture="earth">
+                <material>
+                    <ambient> 0.2 0.2 0.2 </ambient>
+                    <diffuse> 0.8 0.8 0.8</diffuse>
+                    <specular> 0.8 0.8 0.8</specular>
+                    <shininess> 100 </shininess>
+                </material>
+            </object>
+        </transform>
+
+        <transform>
+            <set>
+                <translate> -100 0 0 </translate>
+                <scale>40 40 40</scale>
+            </set>
+
+            <object instanceof="box">
+                <material>
+                    <ambient> 0.2 0.2 0.1 </ambient>
+                    <diffuse> 0.8 0.8 0.1</diffuse>
+                    <specular> 0.8 0.8 0.1</specular>
+                    <shininess> 100 </shininess>
+                </material>
+            </object>
+        </transform>
+
+        <transform>
+            <set>
+                <translate> 100 0 0 </translate>
+                <scale>40 40 40</scale>
+                <rotate> 45 0 1 0 </rotate>
+            </set>
+
+            <object instanceof="box" texture="dice">
+                <material>
+                    <ambient> 0.1 0.2 0.2 </ambient>
+                    <diffuse> 0.1 0.8 0.8</diffuse>
+                    <specular> 0.1 0.8 0.8</specular>
+                    <shininess> 100 </shininess>
+                </material>
+            </object>
+        </transform>
+
+        <transform>
+            <set>
+                <translate> 0 0 -100 </translate>
+                <scale>40 40 40</scale>
+                <rotate> 45 1 1 1 </rotate>
+            </set>
+
+            <object instanceof="box">
+                <material>
+                    <ambient> 0.2 0.2 0.2 </ambient>
+                    <diffuse> 0.8 0.8 0.8</diffuse>
+                    <specular> 0.8 0.8 0.8</specular>
+                    <shininess> 100 </shininess>
+                </material>
+            </object>
+        </transform>
+
+        <transform>
+            <set>
+                <translate> 0 0 100 </translate>
+                <scale>40 40 40</scale>
+            </set>
+
+            <object instanceof="box">
+                <material>
+                    <ambient> 0.1 0.1 0.2 </ambient>
+                    <diffuse> 0.5 0.5 0.8</diffuse>
+                    <specular> 0.5 0.5 0.8</specular>
+                    <shininess> 100 </shininess>
+                </material>
+            </object>
+        </transform>
+
+        <transform>
+            <set>
+                <translate> 0 -50 0 </translate>
+                <scale>500 4 500</scale>
+                <translate> 0 -0.5 0 </translate>
+            </set>
+
+            <object instanceof="box">
+                <material>
+                    <ambient> 0.4 0.4 0.4 </ambient>
+                    <diffuse> 0.8 0.8 0.8</diffuse>
+                    <specular> 0.5 0.5 0.5</specular>
+                    <shininess> 10 </shininess>
+                </material>
+            </object>
+        </transform>
+    </group>
+
+</scene>

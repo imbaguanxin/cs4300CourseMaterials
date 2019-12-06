@@ -1,0 +1,52 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HelloJOGL">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelloJOGL</output-path>
+    <root id="archive" name="HelloJOGL.jar">
+      <element id="module-output" name="HelloJOGL" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/joal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/gluegen.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-noawt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/joal-natives-linux-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/joal-natives-linux-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/joal-natives-linux-armv6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/joal-natives-solaris-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/joal-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/joal-natives-linux-armv6hf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/joal-natives-solaris-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/joal-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-natives-linux-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-natives-linux-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-natives-linux-armv6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/gluegen-rt-natives-linux-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/joal-natives-macosx-universal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-natives-solaris-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/gluegen-rt-natives-linux-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/gluegen-rt-natives-linux-armv6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-natives-linux-armv6hf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-natives-solaris-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/gluegen-rt-natives-solaris-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/gluegen-rt-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/gluegen-rt-natives-linux-armv6hf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/gluegen-rt-natives-solaris-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/gluegen-rt-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-natives-macosx-universal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-noawt-natives-linux-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-noawt-natives-linux-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-noawt-natives-linux-armv6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/gluegen-rt-natives-macosx-universal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-noawt-natives-solaris-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-noawt-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-noawt-natives-android-armv6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-noawt-natives-linux-armv6hf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-noawt-natives-solaris-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-noawt-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-noawt-natives-android-aarch64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOGL/Jogamp/jar/jogl-all-noawt-natives-macosx-universal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JOML/joml-1.8.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

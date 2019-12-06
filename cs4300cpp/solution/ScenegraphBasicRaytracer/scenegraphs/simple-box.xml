@@ -1,0 +1,28 @@
+<scene>
+    <instance name="box" path="models/box-outside"></instance>
+    <image name="white" path="textures/whitebox.png" />
+
+    <light>
+        <ambient>0.8 0.8 0.8</ambient>
+        <diffuse>0.8 0.8 0.8</diffuse>
+        <specular>0.8 0.8 0.8</specular>
+        <position>0 10 200 </position>
+        <spotangle>180</spotangle>
+        <spotdirection>0 -1 0 </spotdirection>
+    </light>
+    <transform>
+        <set>
+            <scale>100 100 100</scale>
+        </set>
+
+        <object instanceof="box">
+            <material>
+                <ambient> 0.2 0.2 0.2 </ambient>
+                <diffuse> 0.8 0.8 0.8</diffuse>
+                <specular> 0.8 0.8 0.8</specular>
+                <shininess> 100 </shininess>
+            </material>
+        </object>
+    </transform>
+
+</scene>

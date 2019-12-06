@@ -1,0 +1,1 @@
+This program extends HelloQt, by drawing the same triangle but specifying one color per vertex. This also introduces the modelview matrix to transform the object in simple ways.

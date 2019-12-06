@@ -1,0 +1,15 @@
+
+£%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ù©Ï†øÿÿÿÿ
+;squid:S1659"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğŞíê
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜´êÂıÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œŸˆ°
+Dsquid:S1481"-Remove this unused "vertices" local variable.(ğŞíê
+Hsquid:S1481",Remove this unused "normals" local variable.(˜´êÂıÿÿÿÿ
+Esquid:S1481".Remove this unused "texcoords" local variable.(œŸˆ°
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¿´èøÿÿÿÿ
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(‰×‰™
+Tsquid:S1854"=Remove this useless assignment to local variable "texcoords".(œŸˆ°
+Wsquid:S1854";Remove this useless assignment to local variable "normals".(˜´êÂıÿÿÿÿ
+Ssquid:S1854"<Remove this useless assignment to local variable "vertices".(ğŞíê
+Tsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Ù¡³O

@@ -1,0 +1,1 @@
+This basic program shows how to draw a triangle on screen using Qt and OpenGL using one color

@@ -1,0 +1,6 @@
+
+^squid:UselessImportCheck
+":Remove this unused import 'java.awt.event.WindowListener'.(Ë‡ï◊
+]squid:UselessImportCheck	"9Remove this unused import 'java.awt.event.WindowAdapter'.(≠à‡€
+=squid:S1948"&Make "view" transient or serializable.(ÿ ª∂
+esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(Œá∏–

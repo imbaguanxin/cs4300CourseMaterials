@@ -1,0 +1,15 @@
+
+Bsquid:S1659"+Declare "WINDOW_HEIGHT" on a separate line.(ëÄ³ø
+Csquid:S1659"'Declare "modelview" on a separate line.(½Ý©Îþÿÿÿÿ
+Gsquid:S1068"0Remove this unused "WINDOW_WIDTH" private field.(ëÄ³ø
+psquid:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ùö¦•
+usquid:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(êïÇáøÿÿÿÿ
+usquid:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ýààÿÿÿÿÿ
+psquid:S2293z"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹óÃ 
+vsquid:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(Þ½©ªúÿÿÿÿ
+U
+squid:S106æ"9Replace this use of System.out or System.err by a logger.(½ÁùÛúÿÿÿÿ
+Csquid:S1172á"&Remove these unused method parameters.(ªÖþüýÿÿÿÿ
+^squid:S00112+"FDefine and throw a dedicated exception instead of using a generic one.(ñ¥ýô
+osquid:S00116"WRename this field "WINDOW_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÄ³ø
+psquid:S00116"XRename this field "WINDOW_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÄ³ø

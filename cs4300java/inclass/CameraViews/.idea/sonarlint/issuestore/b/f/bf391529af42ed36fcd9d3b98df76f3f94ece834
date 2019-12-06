@@ -1,0 +1,37 @@
+
+Lsquid:EmptyStatementUsageCheckí"Remove this empty statement.(ôŸìúÿÿÿÿ
+£%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(òàö´øÿÿÿÿ
+Rsquid:S1659"6Declare "triangle_texture_indices" on a separate line.(ù„¥­ÿÿÿÿÿ
+Qsquid:S1659"5Declare "triangle_normal_indices" on a separate line.(ù„¥­ÿÿÿÿÿ
+;squid:S1659"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
+:squid:S1659n"#Declare "t_tex" on a separate line.(ğİ¬—
+=squid:S1659n"&Declare "t_normal" on a separate line.(ğİ¬—
+]squid:S11929"FDefine a constant instead of duplicating this literal "Line " 6 times.(ã±°
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(’ù›˜øÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì·Å›ıÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½ƒÈåûÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éé”ÿÿÿÿÿ
+osquid:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(àÇƒ
+psquid:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(Òııß
+usquid:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(Û¦Éäûÿÿÿÿ
+usquid:S2293p"YReplace the type specification in this constructor call with the diamond operator ("<>").(üÀåúÿÿÿÿ
+psquid:S2293q"YReplace the type specification in this constructor call with the diamond operator ("<>").(æä•È
+psquid:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛŠ´
+vsquid:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(°û“ùÿÿÿÿ
+csquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(şÌÈÌ
+hsquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(üĞ²¶ûÿÿÿÿ
+Bsquid:S1481Q"&Remove this unused "n" local variable.(øÅó³ùÿÿÿÿ
+Dsquid:S1481a"(Remove this unused "num" local variable.(åÓ½âüÿÿÿÿ
+Dsquid:S14813"(Remove this unused "str" local variable.(¢Íó®ûÿÿÿÿ
+Bsquid:S1481"&Remove this unused "j" local variable.(¦¢Éëùÿÿÿÿ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 81 to the 15 allowed.(§¯Áÿÿÿÿÿ
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(°½©º
+Ssquid:S18543"7Remove this useless assignment to local variable "str".(¢Íó®ûÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù„¥­ÿÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù„¥­ÿÿÿÿÿ
+isquid:S00117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğİ¬—
+isquid:S00117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğİ¬—
+isquid:S00117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğİ¬—
+[squid:S1155•">Use isEmpty() to check whether the collection is empty or not.(´ó­¨ûÿÿÿÿ
+[squid:S1155›">Use isEmpty() to check whether the collection is empty or not.(ÌÇÃïıÿÿÿÿ
+Vsquid:S1155ä">Use isEmpty() to check whether the collection is empty or not.(õêœÁ

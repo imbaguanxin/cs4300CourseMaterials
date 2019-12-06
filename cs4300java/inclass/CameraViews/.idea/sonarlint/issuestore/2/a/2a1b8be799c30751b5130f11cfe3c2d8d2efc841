@@ -1,0 +1,48 @@
+
+psquid:S00116"XRename this field "WINDOW_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÄ³ø
+Jsquid:S1172µ"&Remove these unused method parameters.(ªÖþüýÿÿÿÿ8ÝÙÿÕŒ-
+8squid:S2129ï" Remove this "String" constructor(ò‹ã×
+Gsquid:S1068"0Remove this unused "WINDOW_WIDTH" private field.(ëÄ³ø
+Hsquid:S1068"1Remove this unused "WINDOW_HEIGHT" private field.(ëÄ³ø
+lsquid:S1149!"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¯™•Þøÿÿÿÿ
+=squid:S2129Ä" Remove this "String" constructor(µÙ«¥üÿÿÿÿ
+psquid:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßðµú
+psquid:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(á¢‡ø
+Hsquid:S1659#"1Declare "animationTransforms" on a separate line.(èýÌñ
+osquid:S00116"WRename this field "WINDOW_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÄ³ø
+<squid:S2129|" Remove this "String" constructor(óÇ¼«üÿÿÿÿ
+=squid:S2129Ž" Remove this "String" constructor(Ì£ÚÆúÿÿÿÿ
+ssquid:S1450"\Remove the "WINDOW_HEIGHT" field and declare it as a local variable in the relevant methods.(ëÄ³ø
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+=squid:S2129¢" Remove this "String" constructor(ŒëÏ±øÿÿÿÿ
+8squid:S2129Ù" Remove this "String" constructor(¢—£×
+;squid:S16407"Convert this Map to an EnumMap.(Ç•Õ—úÿÿÿÿ
+6squid:S16404"Convert this Map to an EnumMap.(á¢‡ø
+jsquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(ê‡¡«8°¯ãÕŒ-
+Lsquid:S1905ž"(Remove this unnecessary cast to "float".(ÓÄ½úÿÿÿÿ8ÝÙÿÕŒ-
+8squid:S2129³" Remove this "String" constructor(¹õû—
+usquid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ©¹³ÿÿÿÿÿ
+Gsquid:S1905¡"(Remove this unnecessary cast to "float".(‰è¯…8ÝÙÿÕŒ-
+Gsquid:S1481å"(Remove this unused "mfb" local variable.(•ÝÃæ8ÝÙÿÕŒ-
+Vsquid:S1854å"7Remove this useless assignment to local variable "mfb".(•ÝÃæ8ÝÙÿÕŒ-
+7squid:S2129j" Remove this "String" constructor(ýþòÿ
+osquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(ŸšŽîÿÿÿÿÿ8ÝÙÿÕŒ-
+Tsquid:S2209Ä"5Change this instance-reference to a static reference.(½Ñ¦å8ÚŒ÷‹-
+=squid:S2129 " Remove this "String" constructor(»¬Ÿ’ýÿÿÿÿ
+fsquid:S1192P"ODefine a constant instead of duplicating this literal "models/box.obj" 7 times.(ûíºƒ
+Fsquid:EmptyStatementUsageCheck"Remove this empty statement.(¢Ø“
+usquid:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç•Õ—úÿÿÿÿ
+Bsquid:S1659"+Declare "WINDOW_HEIGHT" on a separate line.(ëÄ³ø
+csquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(åÿ’ó
+Gsquid:S1905¨"(Remove this unnecessary cast to "float".(ŽŒšÌ8ÝÙÿÕŒ-
+;squid:S16405"Convert this Map to an EnumMap.(““‡Õÿÿÿÿÿ
+7squid:S2129V" Remove this "String" constructor(ÇöÀ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+rsquid:S1450"[Remove the "WINDOW_WIDTH" field and declare it as a local variable in the relevant methods.(ëÄ³ø
+8squid:S2129‘" Remove this "String" constructor(Ù·á
+Tsquid:S2209Ä"5Change this instance-reference to a static reference.(½Ñ¦å8ÚŒ÷‹-
+usquid:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(““‡Õÿÿÿÿÿ
+usquid:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(Þ½©ªúÿÿÿÿ
+jsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(Êþÿò8ÝÙÿÕŒ-
+=squid:S2129€" Remove this "String" constructor(—ã–øÿÿÿÿ
+;squid:S16406"Convert this Map to an EnumMap.(õ©¹³ÿÿÿÿÿ

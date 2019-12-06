@@ -1,0 +1,1 @@
+This file contains several useful classes for many of the coding examples. You should put this folder inside the same folder where you keep all the projects, so that you may link to it from them. In IntelliJ, look under File->Project Structure->Modules for any of the provided projects to see how they link to these files.

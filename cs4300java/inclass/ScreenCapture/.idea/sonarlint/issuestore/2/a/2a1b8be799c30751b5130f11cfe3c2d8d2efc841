@@ -1,0 +1,19 @@
+
+±%squid:RedundantThrowsDeclarationCheckö"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(‹­°‘8ÿÒø“-
+Isquid:S1659!"+Declare "WINDOW_HEIGHT" on a separate line.(ëÄ³ø8ÿÒø“-
+@squid:S1659"""Declare "proj" on a separate line.(‹è’¡8ÿÒø“-
+wsquid:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ùö¦•8ÿÒø“-
+|squid:S2293t"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ıààÿÿÿÿÿ8ÿÒø“-
+xsquid:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹óÃ 8ÿÒø“-
+xsquid:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¯Œ8ÿÒø“-
+}squid:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ş½©ªúÿÿÿÿ8ÿÒø“-
+jsquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(õàÿ‡8ÿÒø“-
+Isquid:S1905C"&Remove this unnecessary cast to "GL3".(Í±ñ¡øÿÿÿÿ8ÿÒø“-
+Esquid:S1481û"&Remove this unused "f" local variable.(ÍêŸä8ÿÒø“-
+Tsquid:S2209Ó"5Change this instance-reference to a static reference.(åñòõ8ÿÒø“-
+Jsquid:S1172‡"&Remove these unused method parameters.(ªÖşüıÿÿÿÿ8ÿÒø“-
+esquid:S00112B"FDefine and throw a dedicated exception instead of using a generic one.(ñ¥ıô8ÿÒø“-
+Tsquid:S1854û"5Remove this useless assignment to local variable "f".(ÍêŸä8ÿÒø“-
+vsquid:S00116!"WRename this field "WINDOW_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÄ³ø8ÿÒø“-
+wsquid:S00116!"XRename this field "WINDOW_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÄ³ø8ÿÒø“-
+usquid:S00117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¡·€üÿÿÿÿ8ÿÒø“-
